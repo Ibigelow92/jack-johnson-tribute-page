@@ -1,0 +1,49 @@
+body {
+  background-color: #E0DCB6;
+  margin: 20;
+}
+h1 {
+  text-align: center;
+  font-family: Cambria;
+  font-size: 60px; 
+}
+h2 {
+  text-align: center;
+  font-family: Cambria;
+  font-size: 36px;
+}
+img {
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  border: 2px solid black;
+  filter: drop-shadow(0.15rem 0.15rem 0.25rem #000000);
+  margin-left: auto;
+  margin-right: auto;
+}
+figcaption {
+  text-align: center;
+  font-family: Cambria;
+  font-size: 18px;
+  position:relative;
+  bottom:-6px;
+  vertical-align:bottom;
+}
+ul {
+  max-width: 600px;
+  font-family: Cambria;
+  font-size: 20px;
+  line-height: 1.5;
+  position:relative;
+  bottom:-12px;
+}
+.address {
+  font-family: Cambria;
+  font-size: 16px;
+  text-align: center;
+}
+footer {
+  position:relative;
+  bottom: -12px;
+  text-align: center;
+}
